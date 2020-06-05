@@ -45,6 +45,6 @@ void trig_function()
 int main()
 {
 	trig_function<double>();
-	printf("Hello");
+	printf("Hello World!");
 	return 0;
 }
